@@ -49,4 +49,4 @@ The ERD sketch was formulated using the follwing website: http://www.quickdataba
 
 For best practices regarding the table schema and ensuring correct assignments of primary and foreign keys the following can be used: https://www.analyticsvidhya.com/blog/2020/07/difference-between-sql-keys-primary-key-super-key-candidate-key-foreign-key/#:~:text=A%20Composite%20key%20is%20a%20Candidate%20key%20with%20more%20than,non%2Dunique%20and%20null%20values.
 
-For the data analysis section : 
+For the data analysis section filtering and joining: https://stackoverflow.com/questions/15077053/filter-table-before-applying-left-join
