@@ -44,9 +44,16 @@ List each employee in the Sales and Development departments, including their emp
 List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 <img width="1710" alt="Screenshot 2024-01-07 at 9 42 10 PM" src="https://github.com/Nalchamp/sql-challenge/assets/145158606/fd886d5d-379b-492c-915c-bf3809580191">
 
-Sources:
+## Sources
 The ERD sketch was formulated using the follwing website: http://www.quickdatabasediagrams.com/ 
 
 For best practices regarding the table schema and ensuring correct assignments of primary and foreign keys the following can be used: https://www.analyticsvidhya.com/blog/2020/07/difference-between-sql-keys-primary-key-super-key-candidate-key-foreign-key/#:~:text=A%20Composite%20key%20is%20a%20Candidate%20key%20with%20more%20than,non%2Dunique%20and%20null%20values.
 
 For the data analysis section filtering and joining: https://stackoverflow.com/questions/15077053/filter-table-before-applying-left-join
+
+## In this repository
+  - .sql file of table schemata
+  - .sql file of queries
+  - image of ERD file
+  - images showing results of the queries
+
